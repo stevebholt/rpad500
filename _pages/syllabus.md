@@ -106,7 +106,7 @@ Group assignments will serve as a foundation for your participation grade. Each 
 * The table below lays out the grading scale that will be used in assigning final course grades.
 * Students with special physical and/or learning needs will be accommodated. Please notify the Disabilities Office and me as soon as possible so that reasonable accommodations can be made.
 
-NOTE: THROUGHOUT THE SEMESTER, I MAY ADD OR SUBTRACT READINGS AS NEEDED TO ADJUST THE COURSE ACCORDING TO YOUR PROGRESS, ENGAGEMENT, AND INTERESTS.
+**NOTE:** Throughout the semester, I may add or substract readings as needed to adjust the course according to your progress, engagement, and interests.
 {: .notice--danger}
 
 Table. Grade Scale Used for Calculating Class Grades
@@ -153,8 +153,8 @@ Confidential support and guidance can be found through the Counseling Center (51
 
 Sexual offenses can be reported non-confidentially to the Title IX Coordinator within The Office for Equity and Compliance (518-442-3800, [or online](https://www.albany.edu/equity-compliance/), Building 25, Room 117) and/or the University Police Department (518-442-3131, [or online](http://police.albany.edu/)).
 
-**PLEASE NOTE:*** Faculty members are considered “responsible employees” at the University at Albany, meaning that they are required to report all known relevant details about a complaint of sexual violence to the University’s Title IX Coordinator, including names of anyone involved or present, date, time, and location.
-{: .notice--warning}
+**PLEASE NOTE:** Faculty members are considered “responsible employees” at the University at Albany, meaning that they are required to report all known relevant details about a complaint of sexual violence to the University’s Title IX Coordinator, including names of anyone involved or present, date, time, and location.
+{: .notice--danger}
 
 In case of an emergency, please call 911.
 
