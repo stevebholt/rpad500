@@ -16,7 +16,7 @@ toc: true
 ## Course Description
 This course is designed to provide students an introduction to the field of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly defined by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
 
-By the end of this course, students should be able to 1) critically analyze administrative problems and evaluate potential solutions; 2) consider questions of accountability and responsiveness in administrative action; and 3) analyze the potential challenges in implementing public programs through both public and private organizations. Students should leave class with a deep understanding of both the technical challenges and competing values present in implementing and managing public programs.[bignote^1]
+By the end of this course, students should be able to 1) critically analyze administrative problems and evaluate potential solutions; 2) consider questions of accountability and responsiveness in administrative action; and 3) analyze the potential challenges in implementing public programs through both public and private organizations. Students should leave class with a deep understanding of both the technical challenges and competing values present in implementing and managing public programs.[^bignote1]
 
 ## Required Text
 *Recognizing Public Value* by Mark H. Moore
@@ -193,7 +193,7 @@ Key:
 | 12/5 | Essay 2 Turn In | :date: |  |
 
 
-[bignote^1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are:
+[^bignote1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are:
 * The ability to lead and manage in public governance
 * To participate in and contribute to the policy process
 * To analyze, synthesize, think critically, solve problems and make decisions
