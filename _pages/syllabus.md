@@ -193,10 +193,5 @@ Key:
 | 12/5 | Essay 2 Turn In | :date: |  |
 
 
-[^bignote1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are:
-* The ability to lead and manage in public governance
-* To participate in and contribute to the policy process
-* To analyze, synthesize, think critically, solve problems and make decisions
-* To articulate and apply a public service perspective
-* To communicate and interact productively with a diverse and changing workforce and citizenry
+[^bignote1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are 1) The ability to lead and manage in public governance; 2) To participate in and contribute to the policy process; 3) To analyze, synthesize, think critically, solve problems and make decisions; 4) To articulate and apply a public service perspective; 5) To communicate and interact productively with a diverse and changing workforce and citizenry.
 
