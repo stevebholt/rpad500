@@ -1,8 +1,7 @@
 ---
-tags: [syllabus]
-title: Foundations of Public Administration
-created: '2022-08-09T14:09:22.648Z'
-modified: '2022-08-09T19:58:06.338Z'
+title: "Syllabus"
+permalink: /syllabus/
+toc: true
 ---
 
 # Foundations of Public Administration
