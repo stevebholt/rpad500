@@ -6,12 +6,12 @@ toc: true
 
 # Foundations of Public Administration
 ## RPAD 500
-:man_teacher:: Stephen Holt, Ph.D.
-:calendar:: Asynchronous online
-:round_pushpin:: Blackboard
-:email:: sbholt@albany.edu
-:school:: Tuesdays and Thursdays from 3:00 pm to 5:00 pm or by appointment; in-person in Milne 324 or online in GatherTown.
-:phone:: 518-442-3309
+:man_teacher:: Stephen Holt, Ph.D. <br/>
+:calendar:: Asynchronous online <br/>
+:round_pushpin:: Blackboard <br/>
+:email:: sbholt@albany.edu <br/>
+:school:: Tuesdays and Thursdays from 3:00 pm to 5:00 pm or by appointment; in-person in Milne 324 or online in GatherTown. <br/>
+:phone:: 518-442-3309 <br/>
 
 ## Course Description
 This course is designed to provide students an introduction to the field of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly defined by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
