@@ -92,6 +92,38 @@ Many weeks will have an assignment that serves as an illustration or application
 ### Participation
 Group assignments will serve as a foundation for your participation grade. Each group assignment will include a simple poll rating each group members' participation level from 1 to 10. The percent of possible points will determine your participation grade for the class.
 
+## Class Schedule
+### Overview of Weeks
+Key:
+
+| Symbol | Meaning |
+|:-: | :--------------------------- |
+| :white_check_mark: | Quiz |
+| :busts_in_silhouette: | Group assignment |
+| :date: | Essay due |
+| :book: | Reading is from required text |
+| :page_facing_up: | Reading is from an article/chapter on Zotero (by author last name) |
+
+| Date | Topic | Assignments | Readings |
+| :-----: | :-----: | :-----: | :-----: |
+| 8/22 | Intro to course |  |  |
+| 8/29 | Policy Process |  | :page_facing_up: Forsythe & Boyd Memo 2 & 3 |
+| 9/5 | Foundations of Public Administration | :white_check_mark: | :page_facing_up: Wilson <br/> :page_facing_up: Weber <br/> :page_facing_up: Kaufman  |
+| 9/12 | Accountability | :white_check_mark: | :page_facing_up: Friedrich <br/> :page_facing_up: Finer <br/> :page_facing_up: Romzek & Dubnick |
+| 9/19 | Decision-Making and Public Participation | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 5 <br/> :page_facing_up: Eden & Ackerman <br/> :page_facing_up: Fung <br/> :page_facing_up: Einstein, Palmer, & Glick |
+| 9/26 | Decision-Making in a Political Environment | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 1 & 3 <br/> :page_facing_up: Collins |
+| 10/3 | Equity and Fairness | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Sandel <br/> :page_facing_up: Riccucci Chapter 2 & 3 <br/> :page_facing_up: Rothstein |
+| 10/12 | Essay 1 Assignment and Preparation |  |  |
+| 10/17 | Direct Government: Street-level Bureaucrats | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Lipsky <br/> :page_facing_up: Maybard-Moody & Musheno <br/> :page_facing_up: Pynes |
+| 10/24 | Government by Proxy: Contracting | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Kelman <br/> :page_facing_up: Brown & Potowski |
+| 10/31 | Government by Proxy: Networks, Non-profits, and Delivering Services | :white_check_mark: <br/> :busts_in_silhouette: <br/> :date: | :page_facing_up: Milward & Provan <br/> :page_facing_up: Winston <br/> :page_facing_up: Young |
+| 11/7 | Essay 2 Assignment and Preparation |  |  |
+| 11/14 | Working Across Governments | :white_check_mark: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
+| 11/21 | Thanksgiving Break |  |  |
+| 11/28 | Final Review & Essay 2 Meetings with Groups |  |  |
+| 12/5 | Essay 2 Turn In | :date: |  |
+
+
 ## Class Policies
 * Public policy is a professional field; therefore, I emphasize professional skills in the classroom and assignments. Professional skills are punctuality, adhering to deadlines, and preparedness.
 * After the first week, readings for each week should be completed by the Tuesday of that week (that is, BEFORE CLASS!). While much of the class reading comes from the text, I will cover other material in my lectures. **You will be responsible for knowing this material too!**
@@ -163,38 +195,6 @@ A tentative grade given only when the student has nearly completed the course bu
 
 ### Absence due to religious observance
 Students are excused, without penalty, to be absent because of religious beliefs, and will be provided equivalent opportunities for make-up examinations, study, or work requirements missed because of such absences. Students should notify the instructor of record in a timely manner, and the instructor will work directly with students to accommodate religious observances. Online courses will not schedule any assignment deadlines on religious holidays.
-
-## Class Schedule
-### Overview of Weeks
-Key:
-
-| Symbol | Meaning |
-|:-: | :--------------------------- |
-| :white_check_mark: | Quiz |
-| :busts_in_silhouette: | Group assignment |
-| :date: | Essay due |
-| :book: | Reading is from required text |
-| :page_facing_up: | Reading is from an article/chapter on Zotero (by author last name) |
-
-| Date | Topic | Assignments | Readings |
-| :-----: | :-----: | :-----: | :-----: |
-| 8/22 | Intro to course |  |  |
-| 8/29 | Policy Process |  | :page_facing_up: Forsythe & Boyd Memo 2 & 3 |
-| 9/5 | Foundations of Public Administration | :white_check_mark: | :page_facing_up: Wilson <br/> :page_facing_up: Weber <br/> :page_facing_up: Kaufman  |
-| 9/12 | Accountability | :white_check_mark: | :page_facing_up: Friedrich <br/> :page_facing_up: Finer <br/> :page_facing_up: Romzek & Dubnick |
-| 9/19 | Decision-Making and Public Participation | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 5 <br/> :page_facing_up: Eden & Ackerman <br/> :page_facing_up: Fung <br/> :page_facing_up: Einstein, Palmer, & Glick |
-| 9/26 | Decision-Making in a Political Environment | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 1 & 3 <br/> :page_facing_up: Collins |
-| 10/3 | Equity and Fairness | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Sandel <br/> :page_facing_up: Riccucci Chapter 2 & 3 <br/> :page_facing_up: Rothstein |
-| 10/12 | Essay 1 Assignment and Preparation |  |  |
-| 10/17 | Direct Government: Street-level Bureaucrats | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Lipsky <br/> :page_facing_up: Maybard-Moody & Musheno <br/> :page_facing_up: Pynes |
-| 10/24 | Government by Proxy: Contracting | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Kelman <br/> :page_facing_up: Brown & Potowski |
-| 10/31 | Government by Proxy: Networks, Non-profits, and Delivering Services | :white_check_mark: <br/> :busts_in_silhouette: <br/> :date: | :page_facing_up: Milward & Provan <br/> :page_facing_up: Winston <br/> :page_facing_up: Young |
-| 11/7 | Essay 2 Assignment and Preparation |  |  |
-| 11/14 | Working Across Governments | :white_check_mark: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
-| 11/21 | Thanksgiving Break |  |  |
-| 11/28 | Final Review & Essay 2 Meetings with Groups |  |  |
-| 12/5 | Essay 2 Turn In | :date: |  |
-
 
 [^bignote1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are 1) The ability to lead and manage in public governance; 2) To participate in and contribute to the policy process; 3) To analyze, synthesize, think critically, solve problems and make decisions; 4) To articulate and apply a public service perspective; 5) To communicate and interact productively with a diverse and changing workforce and citizenry.
 
