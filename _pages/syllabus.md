@@ -24,7 +24,7 @@ By the end of this course, students should be able to 1) critically analyze admi
 Additional readings will be made available on Zotero in the class library.
 
 ## Required Software
-Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor.
+Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor. I provide an introduction to Zotero and the features most applicable to this class in the embedded video below.
 
 There are a variety of citation organizer software options out there for researchers to use and, having experimented with most of them, Zotero is by far the best. It is *free*; Open Source; designed and developed by researchers; and governed as a non-profit to protect the integrity and accessibility of the software.
 {: .notice--info}
