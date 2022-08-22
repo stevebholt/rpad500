@@ -31,6 +31,9 @@ There are a variety of citation organizer software options out there for researc
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 0px; height: 0; overflow: auto; -webkit-overflow-scrolling: touch;"><iframe id="ensembleEmbeddedContent_jxiyHnjxrk6-7l8ENxzw9g" src="https://ensemble.itec.suny.edu/hapi/v1/contents/1eb2188f-f178-4eae-beee-5f04371cf0f6/plugin?embedAsThumbnail=false&displayTitle=false&startTime=0&autoPlay=false&hideControls=true&showCaptions=false&displaySharing=false&displayNotes=false&displayAttachments=false&displayLinks=false&displayEmbedCode=false&displayDownloadIcon=false&displayMetaData=false&displayCredits=false&audioPreviewImage=false&displayCaptionSearch=false&displayViewersReport=false&displayAxdxs=false&displayComments=false" title="Zotero Introduction" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" scrolling="no" allowfullscreen></iframe></div>
 
+**TIP:** When you receive an announcement that the group invitations for the class library have been sent, go to the Zotero.org, login to your account, and click the groups tab. You should see RPAD 500 with a red button that says join. Click join. In the Zotero app, click the green refresh circle in the top right and the class library should appear.
+{: .notice--success}
+
 ### Recommended Texts
 *Understanding American Politics and Government* by J.J. Coleman, K.M. Goldstein, and W.G. Howell is a good resource for getting a basic primer on American Government. There will be a very basic primer in the course, but some students may need a bit more and this book is a good place to start.
 
