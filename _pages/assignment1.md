@@ -4,7 +4,6 @@ permalink: /assignment1/
 toc: true
 ---
 
-# Group Assignment 1
 ## Overview of Group Assignments
 The group assignments in this class serve two important functions. First, they will provide groups with a role in a scenario that facilitates the application of concepts from the modules to a more concrete example. The assignments will generally take place in a fictional city, Hopetopia, which is loosely based on real-cities and the parameters and characteristics of which will be provided as relevant to each activity. Second, many of the skills targeted by the assignments are trial runs for working with concepts that will be explored in more depth in essays 1 and 2 later in the course. Generally, applications grounded in a hypothetical situation similar to real-world events provides opportunities for more enjoyable and interesting discussion. It also provides an early, low-stakes context to get to know your group mates and their work styles.
 
