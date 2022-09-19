@@ -30,6 +30,9 @@ Each agency should respond to the mayor’s memo with a plan that:
 
 The agency should include a brief rationale for the stakeholders included and the approach taken for engagement and gauging priorities. The response should be no longer than a single page. The stakeholder engagement plan is due by midnight on **Sunday, 9/25.**
 
+**Note:** You will notice that most of your departments will be splitting a pool of funds allocated to your agency by the mayor's office. In addition to preparing your overall budget request, you should make the case for how much of the overall pool of new funds (or cuts) coming to the agency your department should receive and what you would plan to do with the funds (or cuts) (and the affected stakeholders) in your budget proposal memo.
+{: .notice--info}
+
 **Tip:** Use some creativity when thinking about the city of Hopetopia and the kinds of stakeholders likely to be operating in a city of that size and type. I have provided some details that you may draw on, but you should also be a little creative. I suggest using a Google Doc to draft your one page memo together and then copying and pasting the memo as a reply to the Mayor's Budget Changes Memo in the Hopetopia Assignment 1 forum.
 {: .notice--success}
 
