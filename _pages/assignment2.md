@@ -19,7 +19,6 @@ The Mayor’s priorities (from assignment 1) has been added to this assignment a
 
 | Group  | Role |
 | ------ | -------|
-| Group 3 | Mayor |
 | Group 4 | Police Department |
 | Group 10 | Fire Department |
 | Group 5 | Housing and Planning Agency |
@@ -28,7 +27,8 @@ The Mayor’s priorities (from assignment 1) has been added to this assignment a
 | Group 2 | Youth Social Services |
 | Group 9 | Transportation Department |
 | Group 8 | General Services Department |
-| Group 6 | Department of Education |
+| Group 6 | Department of Education - Public Schools |
+| Group 3 | Department of Education - Evaluation |
 
 ## Mayor's Budget Memo
 To: City Government Department Heads
