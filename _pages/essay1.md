@@ -8,8 +8,8 @@ toc: true
 {: .notice--danger}
 
 **_One page summary_** due by midnight on Sunday, October 23rd via Blackboard.
-**_Final paper_** due by midnight on Monday, October 31st via Blackboard.
-**_Group evauation_** due by midnight on Monday, November 7th via Blackboard.
+**_Final paper_** due by midnight on Sunday, November 6th via Blackboard.
+**_Group evauation_** due by midnight on Sunday, November 13th via Blackboard.
 {: .notice--info}
 
 ## Instructions
