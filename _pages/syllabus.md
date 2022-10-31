@@ -120,10 +120,10 @@ Key:
 | 10/3 | Equity and Fairness | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Sandel <br/> :page_facing_up: Riccucci Chapter 2 & 3 <br/> :page_facing_up: Rothstein |
 | 10/12 | Essay 1 Assignment and Preparation |  |  |
 | 10/17 | Direct Government: Street-level Bureaucrats | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Lipsky <br/> :page_facing_up: Maynard-Moody & Musheno <br/> :page_facing_up: Pynes |
-| 10/24 | Government by Proxy: Contracting | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Kelman <br/> :page_facing_up: Brown & Potowski |
-| 10/31 | Government by Proxy: Networks, Non-profits, and Delivering Services | :white_check_mark: <br/> :busts_in_silhouette: <br/> :date: | :page_facing_up: Milward & Provan <br/> :page_facing_up: Winston <br/> :page_facing_up: Young |
-| 11/7 | Essay 2 Assignment and Preparation |  |  |
-| 11/14 | Working Across Governments | :white_check_mark: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
+| 10/24 | Government by Proxy: Contracting | :white_check_mark:  | :page_facing_up: Kelman <br/> :page_facing_up: Brown & Potowski |
+| 10/31 | Government by Proxy: Networks, Non-profits, and Delivering Services | :white_check_mark: | :page_facing_up: Milward & Provan <br/> :page_facing_up: Winston <br/> :page_facing_up: Young |
+| 11/7 | Essay 2 Assignment and Preparation | :busts_in_silhouette: <br/> :date: |  |
+| 11/14 | Working Across Governments | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
 | 11/21 | Thanksgiving Break |  |  |
 | 11/28 | Final Review & Essay 2 Meetings with Groups |  |  |
 | 12/5 | Essay 2 Turn In | :date: |  |
