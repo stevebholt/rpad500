@@ -126,7 +126,7 @@ Key:
 | 11/14 | Working Across Governments | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
 | 11/21 | Thanksgiving Break |  |  |
 | 11/28 | Final Review & Essay 2 Meetings with Groups |  |  |
-| 12/5 | Essay 2 Turn In | :date: |  |
+| 12/11 | Essay 2 Turn In | :date: |  |
 
 
 ## Class Policies
