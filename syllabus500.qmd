@@ -65,10 +65,15 @@ In this class you tackle broader research projects on teams. This is by design b
 
 ### Overview
 
-The following assignments will form the basis of your grade in this course: 1. Two essays (70% of final grade) 2. Weekly quizzes (15% of final grade) 3. Group assignments (10% of final grade) 4. Participation (5% of final grade)
+The following assignments will form the basis of your grade in this course:
+
+1. Two essays (70% of final grade) 
+2. Weekly quizzes (15% of final grade) 
+3. Group assignments (10% of final grade) 
+4. Participation (5% of final grade)
 
 ::: callout-important
-All assignments will be turned in via Blackboard.
+All assignments will be turned in via Brightspace.
 :::
 
 ### Two Essays
