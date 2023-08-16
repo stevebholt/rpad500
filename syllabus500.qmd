@@ -57,7 +57,8 @@ When you receive an announcement that the group invitations for the class librar
 Since the class is an asynchronous class and not inherently structured by class time, I find it helpful to describe a typical week a student can expect from the course. The course is structured so that students use Brightspace to 1) watch lectures, 2) receive and turn in assignments, 3) interact, and 4) ask general questions for me. A typical week will involve: 1. Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments. 2. Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module. 3. Sundays the weekly readings quiz will be due on Brightspace.
 
 ::: callout-note
-**A Note on Groups.** In this class you tackle broader research projects on teams. This is by design because most professional work is conducted on teams, most decisions in public work are made by consensus, and opportunities to learn to adjust to different working styles while managing projects helps develop important and transferable skills. I strongly encourage you to meet with your groups with an early video call and get to know each other, your schedules, and so on. Communication helps dramatically in successful groups. That said, some group dynamics can - in very rare circumstances - become bad for all involved. I provide two means for coping: first, students can use peer evaluations to ensure accountability in group work. And second, if that is insufficient, the group can vote to remove a member and inform me of the decision. No harm, no foul. This should be considered a measure of last resort and only pursued if a group member has made no contributions to the group.
+## A Note on Groups
+In this class you tackle broader research projects on teams. This is by design because most professional work is conducted on teams, most decisions in public work are made by consensus, and opportunities to learn to adjust to different working styles while managing projects helps develop important and transferable skills. I strongly encourage you to meet with your groups with an early video call and get to know each other, your schedules, and so on. Communication helps dramatically in successful groups. That said, some group dynamics can - in very rare circumstances - become bad for all involved. I provide two means for coping: first, students can use peer evaluations to ensure accountability in group work. And second, if that is insufficient, the group can vote to remove a member and inform me of the decision. No harm, no foul. This should be considered a measure of last resort and only pursued if a group member has made no contributions to the group.
 :::
 
 ## Assignments
@@ -67,7 +68,7 @@ Since the class is an asynchronous class and not inherently structured by class 
 The following assignments will form the basis of your grade in this course: 1. Two essays (70% of final grade) 2. Weekly quizzes (15% of final grade) 3. Group assignments (10% of final grade) 4. Participation (5% of final grade)
 
 ::: callout-important
-**Note** All assignments will be turned in via Blackboard.
+All assignments will be turned in via Blackboard.
 :::
 
 ### Two Essays
