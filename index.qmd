@@ -1,11 +1,5 @@
 ---
-title: "rpad500"
+title: "About"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome to the course page for Foundations of Public Administration! The course will provide a graduate level introduction to the various topics, concepts, and frameworks for understanding how public organizations formulate and implement the programs and services authorized by law and policy. This course page is where you will find the [syllabus](syllabus500.qmd) and the group assignments used in the persistent and evolving case study: Hopetopia.

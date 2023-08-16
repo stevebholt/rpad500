@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "rpad500"
+  title: "RPAD 500 - Foundations of Public Administration"
   navbar:
+    background: danger
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "About"
+        file: index.qmd
+      - text: "Syllabus"
+        file: syllabus500.qmd
 
 format:
   html:
