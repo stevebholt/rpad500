@@ -7,7 +7,7 @@ title: "Syllabus"
 ## RPAD 500
 
 👨‍🏫: Stephen Holt, Ph.D.\
-📅: Asynchronous Online with Synchronous Check-Ins\
+📅: Asynchronous Online\
 📧: sbholt\@albany.edu\
 🏫: Wednesdays and Thursdays from 1:00 pm to 5:00 pm or by appointment - book [here](https://calendly.com/sbholt/30min); in-person in Milne 324 or online in [GatherTown](https://app.gather.town/app/REBbcSYb3BTtxRhY/ussalbany).[^1]\
 ☎️: 518-442-3309
