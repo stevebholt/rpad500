@@ -43,7 +43,7 @@ There are a variety of citation organizer software options out there for researc
 ::: callout-tip
 ## Tip on Zotero
 
-When you receive an announcement that the group invitations for the class library have been sent, go to the Zotero.org, login to your account, and click the groups tab. You should see RPAD 500 with a red button that says join. Click join. In the Zotero app, click the green refresh circle in the top right and the class library should appear.
+When you receive an announcement that the group invitations for the class library have been sent, go to the Zotero.org website, login to your account, and click the groups tab. You should see RPAD 500 with a red button that says join. Click join. In the Zotero app, click the green refresh circle in the top right and the class library should appear.
 :::
 
 ### Recommended Texts
