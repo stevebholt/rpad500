@@ -54,7 +54,11 @@ When you receive an announcement that the group invitations for the class librar
 
 ## Structure of the Class
 
-Since the class is an asynchronous class and not inherently structured by class time, I find it helpful to describe a typical week a student can expect from the course. The course is structured so that students use Brightspace to 1) watch lectures, 2) receive and turn in assignments, 3) interact, and 4) ask general questions for me. A typical week will involve: 1. Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments. 2. Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module. 3. Sundays the weekly readings quiz will be due on Brightspace.
+Since the class is an asynchronous class and not inherently structured by class time, I find it helpful to describe a typical week a student can expect from the course. The course is structured so that students use Brightspace to 1) watch lectures, 2) receive and turn in assignments, 3) interact, and 4) ask general questions for me. A typical week will involve:
+
+1. Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments. 
+2. Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module. 
+3. Sundays the weekly readings quiz will be due on Brightspace.
 
 ::: callout-note
 ## A Note on Groups
