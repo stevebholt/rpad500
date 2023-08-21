@@ -56,12 +56,13 @@ When you receive an announcement that the group invitations for the class librar
 
 Since the class is an asynchronous class and not inherently structured by class time, I find it helpful to describe a typical week a student can expect from the course. The course is structured so that students use Brightspace to 1) watch lectures, 2) receive and turn in assignments, 3) interact, and 4) ask general questions for me. A typical week will involve:
 
-1. Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments. 
-2. Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module. 
-3. Sundays the weekly readings quiz will be due on Brightspace.
+1.  Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments.
+2.  Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module.
+3.  Sundays the weekly readings quiz will be due on Brightspace.
 
 ::: callout-note
 ## A Note on Groups
+
 In this class you tackle broader research projects on teams. This is by design because most professional work is conducted on teams, most decisions in public work are made by consensus, and opportunities to learn to adjust to different working styles while managing projects helps develop important and transferable skills. I strongly encourage you to meet with your groups with an early video call and get to know each other, your schedules, and so on. Communication helps dramatically in successful groups. That said, some group dynamics can - in very rare circumstances - become bad for all involved. I provide two means for coping: first, students can use peer evaluations to ensure accountability in group work. And second, if that is insufficient, the group can vote to remove a member and inform me of the decision. No harm, no foul. This should be considered a measure of last resort and only pursued if a group member has made no contributions to the group.
 :::
 
@@ -71,10 +72,10 @@ In this class you tackle broader research projects on teams. This is by design b
 
 The following assignments will form the basis of your grade in this course:
 
-1. Two essays (70% of final grade) 
-2. Weekly quizzes (15% of final grade) 
-3. Group assignments (10% of final grade) 
-4. Participation (5% of final grade)
+1.  Two essays (70% of final grade)
+2.  Weekly quizzes (15% of final grade)
+3.  Group assignments (10% of final grade)
+4.  Participation (5% of final grade)
 
 ::: callout-important
 All assignments will be turned in via Brightspace.
@@ -86,14 +87,14 @@ To assess your understanding of the course material and your ability to apply co
 
 Pre-writing tasks. To improve the quality of the essays, you may submit for feedback a one page summary of the major arguments of your essay one week before each essay is due. **I will not accept late submissions of summaries.** I will return the summaries 2 to 3 days after submission.
 
-Acceptable sources. Generally, your research should use primary sources more than secondary sources. Primary sources include, but are not limited to: government reports, legislative hearings and testimonies, court decisions, and government auditor reports. Secondary sources are summaries and interpretations of primary sources. Secondary sources include, but are not limited to, articles from major newspapers and news magazines, network and cable news programs, and academic research. Blogs and Wikipedia are not acceptable sources. Be an intelligent consumer of information by evaluating secondary sources for potential political bias. If it is well known that a particular source is liberal or conservative, you must compensate for this in the paper. Acknowledge its bias and balance the information with something from a source on the other side of the political spectrum. Here are some places to start with your research, but feel free to consult other sources: 
+Acceptable sources. Generally, your research should use primary sources more than secondary sources. Primary sources include, but are not limited to: government reports, legislative hearings and testimonies, court decisions, and government auditor reports. Secondary sources are summaries and interpretations of primary sources. Secondary sources include, but are not limited to, articles from major newspapers and news magazines, network and cable news programs, and academic research. Blogs and Wikipedia are not acceptable sources. Be an intelligent consumer of information by evaluating secondary sources for potential political bias. If it is well known that a particular source is liberal or conservative, you must compensate for this in the paper. Acknowledge its bias and balance the information with something from a source on the other side of the political spectrum. Here are some places to start with your research, but feel free to consult other sources:
 
-- Academic research published in public administration, political science, economics, or policy journals such as: *Public Administration Review, Journal of Public Administration Research and Theory, American Review of Public Administration, Administration and Society, Journal of Public Policy Analysis and Management, American Political Science Review, American Journal of Political Science, and Journal of Politics, American Economic Review, Journal of Labor Economics, Policy Studies Journal.* 
-- Congressional testimony (available through Lexis/Nexis via the library) and reports completed by Congressional committee staff 
-- Agency Inspector General reports 
-- [Congressional Research Service reports](www.opencrs.com) 
-- [U.S. Government Accountability Office reports](www.gao.gov) 
-- The library also has research support services for this class, which can be found [here](https://libguides.library.albany.edu/pad500/home)
+-   Academic research published in public administration, political science, economics, or policy journals such as: *Public Administration Review, Journal of Public Administration Research and Theory, American Review of Public Administration, Administration and Society, Journal of Public Policy Analysis and Management, American Political Science Review, American Journal of Political Science, and Journal of Politics, American Economic Review, Journal of Labor Economics, Policy Studies Journal.*
+-   Congressional testimony (available through Lexis/Nexis via the library) and reports completed by Congressional committee staff
+-   Agency Inspector General reports
+-   [Congressional Research Service reports](www.opencrs.com)
+-   [U.S. Government Accountability Office reports](www.gao.gov)
+-   The library also has research support services for this class, which can be found [here](https://libguides.library.albany.edu/pad500/home)
 
 Submission of papers. Each final essay is due by midnight on the designated due date. Electronic versions of the paper are to be submitted via the SafeAssign link in Brightspace. It is the student's responsibility to ensure the electronic file is readable and not corrupted. Please note: once you hit the submit button in SafeAssign, you cannot go back and submit a different version.
 
@@ -148,7 +149,7 @@ Key:
 | 9/11  |                           Accountability                            |     ✅      |                 📄 Friedrich <br/> 📄 Finer <br/> 📄 Romzek & Dubnick                  |
 | 9/18  |              Decision-Making and Public Participation               | ✅ <br/> 👥 | 📖 Chapter 5 <br/> 📄 Eden & Ackerman <br/> 📄 Fung <br/> 📄 Einstein, Palmer, & Glick |
 | 9/25  |             Decision-Making in a Political Environment              | ✅ <br/> 👥 |                           📖 Chapter 1 & 3 <br/> 📄 Collins                            |
-| 10/2  |                         Equity and Fairness                         | ✅ <br/> 👥 |              📄 Sandel <br/> 📄 Riccucci Chapter 2 & 3 <br/> 📄 Rothstein              |
+| 10/2  |                         Equity and Fairness                         | ✅ <br/> 👥 |              📄 Sandel <br/> 📄 Riccucci Chapter 2 & 3 <br/> 📄 Rothstein  <br/> 📄 Herd et al.           |
 | 10/11 |                 Essay 1 Assignment and Preparation                  |             |                                                                                        |
 | 10/16 |             Direct Government: Street-level Bureaucrats             | ✅ <br/> 👥 |               📄 Lipsky <br/> 📄 Maynard-Moody & Musheno <br/> 📄 Pynes                |
 | 10/23 |                  Government by Proxy: Contracting                   |     ✅      |                          📄 Kelman <br/> 📄 Brown & Potowski                           |
@@ -205,6 +206,7 @@ Academic honesty is something your professor takes very seriously. Cheating in a
 
 ::: callout-important
 ## ChatGPT and Other LLMs
+
 By now, we are all aware of the technological advances in generative large language models (LLMs) trained on large quantities of written language scraped from around the internet. The University policy considers the use of ChatGPT and other generative LLMs to produce classwork without explicit permission from the instructor an act of plagiarism. I do not permit the use of ChatGPT or other generative LLMs in this course. First, generative LLMs can at times invent fictional sources, recombine information that is confidently stated but ultimately incorrect, and can produce generally mediocre and formulaic writing. Such events make the output unreliable - particularly for people aiming to be professionals working in the institutions that govern our society. Second, and more importantly, grappling with complicated trade-offs, collecting and synthesizing complex information thoughtfully, and going through the process of articulating your decisions and the knowledge base that inform them is a large part of an effective professional career. Learning in general is an arduous process that involves practice, trial and error, and confronting your current limits before finding ways to overcome them. In short, learning is work and the process by which that work occurs is often reading and writing, poorly at first and much better over time. I do think that, properly understood, LLMs can be a useful tool in managing routine tasks in which you have mastered the background, can detect and correct errors, and can use such tools effectively. However, early in your careers and in your academic lives, the very purpose of being in a graduate program is to have opportunities to learn new things (or old things in new ways) and using an LLM to do the work involved in learning will only cheat you of opportunities to learn, grow, and develop deeper and more lasting skills. Finally, and more practically, if you are caught using LLMs to produce the work assigned in this class, the work will be given a 0 and you will be cited for plagiarism.
 :::
 
