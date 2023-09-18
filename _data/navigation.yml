@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Assignments"
+    url: /assignments/

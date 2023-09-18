@@ -1,0 +1,205 @@
+---
+title: "Syllabus"
+permalink: /syllabus/
+toc: true
+---
+
+# Foundations of Public Administration
+## RPAD 500
+:man_teacher:: Stephen Holt, Ph.D. <br/>
+:calendar:: Asynchronous online <br/>
+:round_pushpin:: Blackboard <br/>
+:email:: sbholt@albany.edu <br/>
+:school:: Tuesdays and Thursdays from 3:00 pm to 5:00 pm or by appointment; in-person in Milne 324 or online in GatherTown. <br/>
+:phone:: 518-442-3309 <br/>
+
+## Course Description
+This course is designed to provide students an introduction to the field of public administration, including its practice, themes and values, and contemporary challenges. Public administration is government in action, as broadly defined by Woodrow Wilson in 1887. Public administration includes activities taken directly by government, or indirectly by its partners, to meet the democratically expressed needs of the public. These activities include policy design, implementation, evaluation of outcomes, and re-design or re-direction.
+
+By the end of this course, students should be able to 1) critically analyze administrative problems and evaluate potential solutions; 2) consider questions of accountability and responsiveness in administrative action; and 3) analyze the potential challenges in implementing public programs through both public and private organizations. Students should leave class with a deep understanding of both the technical challenges and competing values present in implementing and managing public programs.[^bignote1]
+
+## Required Text
+*Recognizing Public Value* by Mark H. Moore
+
+Additional readings will be made available on Zotero in the class library.
+
+## Required Software
+Zotero - Zotero is a free platform for organizing and sharing academic work and it is how readings will be distributed to the class. You can download the app [here](https://www.zotero.org/download/). I suggest also downloading the browser connector for whatever browser you use - it helps save a dramatic amount of time when conducting a literature review. During the first week of classes you will receive an invitation to join the class Zotero library. If you do not receive one, please email the professor. I provide an introduction to Zotero and the features most applicable to this class in the embedded video below.
+
+There are a variety of citation organizer software options out there for researchers to use and, having experimented with most of them, Zotero is by far the best. It is *free*; Open Source; designed and developed by researchers; and governed as a non-profit to protect the integrity and accessibility of the software.
+{: .notice--info}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zR4HYByFnJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**TIP:** When you receive an announcement that the group invitations for the class library have been sent, go to the Zotero.org, login to your account, and click the groups tab. You should see RPAD 500 with a red button that says join. Click join. In the Zotero app, click the green refresh circle in the top right and the class library should appear.
+{: .notice--success}
+
+### Recommended Texts
+*Understanding American Politics and Government* by J.J. Coleman, K.M. Goldstein, and W.G. Howell is a good resource for getting a basic primer on American Government. There will be a very basic primer in the course, but some students may need a bit more and this book is a good place to start.
+
+*New York State Government* by R.B. Ward is an excellent (if a little dated) overview of New York State government.
+
+## Structure of the Class
+Since the class is an asynchronous class and not inherently structured by class time, I find it helpful to describe a typical week a student can expect from the course. The course is structured so that students use Blackboard to 1) watch lectures, 2) receive and turn in assignments, 3) interact, and 4) ask general questions for me. A typical week will involve:
+1. Mondays a new module will open and it will include i) an overview of the week's topics, ii) list of assigned reading, and iii) list of assignments.
+2. Fridays the group assignment will be due for the week. I will then provide feedback on group assignments with a video in the following week's module.
+3. Sundays the weekly readings quiz will be due on Blackboard. 
+
+**A Note on Groups.** In this class you tackle broader research projects on teams. This is by design because most professional work is conducted on teams, most decisions in public work are made by consensus, and opportunities to learn to adjust to different working styles while managing projects helps develop important and transferrable skills. I strongly encourage you to meet with your groups with an early video call and get to know each other, your schedules, and so on. Communication helps dramatically in successful groups. That said, some group dynamics can - in very rare circumstances - become bad for all involved. I provide two means for coping: first, students can use peer evaluations to ensure accountability in group work. And second, if that is insufficient, the group can vote to remove a member and inform me of the decision. No harm, no foul. This should be considered a measure of last resort and only pursued if a group member has made no contributions to the group.
+{: .notice--info}
+
+## Assignments
+### Overview
+The following assignments will form the basis of your grade in this course:
+1. Two essays (70% of final grade)
+2. Weekly quizzes (15% of final grade)
+3. Group assignments (10% of final grade)
+4. Participation (5% of final grade)
+
+**Note** All assignments will be turned in via Blackboard.
+{: .notice--info}
+
+### Two Essays
+To assess your understanding of the course material and your ability to apply concepts to real life cases of government action, students will write three essays during the semester.  The essays will require students to conduct independent research and analysis.  Additional details about the exact questions and formatting will be distributed separately.  Together, the essays constitute 70% of the student’s grade for the course. The essays will be graded using the rubric outlined in the Appendix. Each essay will be weighted equally, and the average grade across both essays will determine your grade for the essay portion of your final grade. For instance, if your average grade across both essays is an 89, you will receive an 89 for the essay portion of your final grade.
+
+Pre-writing tasks. To improve the quality of the essays, you may submit for feedback a one page summary of the major arguments of your essay one week before each essay is due. **I will not accept late submissions of summaries.** I will return the summaries 2 to 3 days after submission.
+
+Acceptable sources. Generally, your research should use primary sources more than secondary sources.  Primary sources include, but are not limited to: government reports, legislative hearings and testimonies, court decisions, and government auditor reports.  Secondary sources are summaries and interpretations of primary sources.  Secondary sources include, but are not limited to, articles from major newspapers and news magazines, network and cable news programs, and academic research.  Blogs and Wikipedia are not acceptable sources.  Be an intelligent consumer of information by evaluating secondary sources for potential political bias.  If it is well known that a particular source is liberal or conservative, you must compensate for this in the paper.  Acknowledge its bias and balance the information with something from a source on the other side of the political spectrum.  Here are some places to start with your research, but feel free to consult other sources:
+* Academic research published in public administration, political science, economics, or policy journals such as: *Public Administration Review, Journal of Public Administration Research and Theory, American Review of Public Administration, Administration and Society, Journal of Public Policy Analysis and Management, American Political Science Review, American Journal of Political Science, and Journal of Politics, American Economic Review, Journal of Labor Economics, Policy Studies Journal.*
+* Congressional testimony (available through Lexis/Nexis via the library) and reports completed by Congressional committee staff
+* Agency Inspector General reports
+* [Congressional Research Service reports](www.opencrs.com)
+* [U.S. Government Accountability Office reports](www.gao.gov)
+* The library also has research support services for this class, which can be found [here](https://libguides.library.albany.edu/pad500/home)
+
+Submission of papers. Each final essay is due by midnight on the designated due date.  Electronic versions of the paper are to be submitted via the SafeAssign link in Blackboard.  It is the student’s responsibility to ensure the electronic file is readable and not corrupted.  Please note: once you hit the submit button in SafeAssign, you cannot go back and submit a different version.
+
+Late assignments. An assignment is considered late if the paper copy is not submitted at the beginning of class, if the electronic file is not submitted before class, and/or if the electronic file is not readable.  Assignments (electronic or hard copy) submitted 10 minutes after the beginning of class or the launch of the following module will be considered late and will be automatically reduced by 10%.  Papers submitted one day after the due date will be automatically reduced by 20%; essays submitted two days after the assigned date will be reduced by 30%, etc.  Exceptions will be made for extreme health and family emergencies.
+
+### Weekly Quizzes
+Each week, quizzes will be posted to Blackboard on Monday with the rest of the module. Quizzes will be graded using the scale below, and will involve 10-20 multiple choice questions. You must complete each quiz by midnight each Sunday. In the interest of fairness of assessment, I will not accept late quizzes. The quizzes will be timed; once you begin, you will have 20 minutes to complete the quiz. They will be in multiple choice format, but they will require you to apply concepts from the readings. The intent of the quizzes is to help underscore important concepts, ensure you are reading the material with some depth, and thinking through the implications of course material. The questions will vary in their degree of difficulty, so please do not be discouraged if some seem tricky. I will be dropping your lowest three quiz grades. Consider those passes to use as you wish; whether it is taking an easy week or dealing with an unexpected circumstance, you have three freebies. Note that the grading of the quizzes is also generously weighted in your favor. Again, the quizzes are to highlight key ideas or assess your grasp of some complex material, not to be punitive.
+
+**Note** Just because the quizzes go live every Monday and are due by midnight every Sunday does not mean you have to DO the quizzes at 11 pm on Sunday; you are all adults with varying levels of outside commitments and this structure allows for five weekdays/weeknights and the weekends to get the quizzes done when it is best for you.
+{: .notice--warning}
+
+Grading scale:
+* A: 4 points; all questions correct
+* A-: 3.8 points; 75% or more correct
+* B: 3 points; 50% or more correct
+* C: 2 points; 25% or more correct
+* E: 0 points; less than 25% correct
+
+Your final grade will be your point average. For instance, your average quiz grade is 3.8, you will receive an A- for the quiz portion of your class grade.
+
+### Group Assignments
+Many weeks will have an assignment that serves as an illustration or application of the week's material. The assignments are flagged in the detailed schedule and will be posted in the module of the week in which it is assigned. The group assignments will detail the requirements of the assignment. You will be assigned a group at the beginning of the semester and this will be your group for all group assignments (including any essays assigned to groups) throughout the semester. The Group Assignments are meant to help you build out, piece-by-piece, the logic and approach for applying concepts that will be used in the larger essay assignments.
+
+### Participation
+Group assignments will serve as a foundation for your participation grade. Each group assignment will include a simple poll rating each group members' participation level from 1 to 10. The percent of possible points will determine your participation grade for the class.
+
+## Class Schedule
+### Overview of Weeks
+Key:
+
+| Symbol | Meaning |
+|:-: | :--------------------------- |
+| :white_check_mark: | Quiz |
+| :busts_in_silhouette: | Group assignment |
+| :date: | Essay due |
+| :book: | Reading is from required text |
+| :page_facing_up: | Reading is from an article/chapter on Zotero (by author last name) |
+
+| Date | Topic | Assignments | Readings |
+| :-----: | :-----: | :-----: | :-----: |
+| 8/22 | Intro to course |  |  |
+| 8/29 | Policy Process |  | :page_facing_up: Forsythe & Boyd Memo 2 & 3 |
+| 9/5 | Foundations of Public Administration | :white_check_mark: | :page_facing_up: Wilson <br/> :page_facing_up: Weber <br/> :page_facing_up: Kaufman  |
+| 9/12 | Accountability | :white_check_mark: | :page_facing_up: Friedrich <br/> :page_facing_up: Finer <br/> :page_facing_up: Romzek & Dubnick |
+| 9/19 | Decision-Making and Public Participation | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 5 <br/> :page_facing_up: Eden & Ackerman <br/> :page_facing_up: Fung <br/> :page_facing_up: Einstein, Palmer, & Glick |
+| 9/26 | Decision-Making in a Political Environment | :white_check_mark: <br/> :busts_in_silhouette: | :book: Chapter 1 & 3 <br/> :page_facing_up: Collins |
+| 10/3 | Equity and Fairness | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Sandel <br/> :page_facing_up: Riccucci Chapter 2 & 3 <br/> :page_facing_up: Rothstein |
+| 10/12 | Essay 1 Assignment and Preparation |  |  |
+| 10/17 | Direct Government: Street-level Bureaucrats | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Lipsky <br/> :page_facing_up: Maynard-Moody & Musheno <br/> :page_facing_up: Pynes |
+| 10/24 | Government by Proxy: Contracting | :white_check_mark:  | :page_facing_up: Kelman <br/> :page_facing_up: Brown & Potowski |
+| 10/31 | Government by Proxy: Networks, Non-profits, and Delivering Services | :white_check_mark: | :page_facing_up: Milward & Provan <br/> :page_facing_up: Winston <br/> :page_facing_up: Young |
+| 11/7 | Essay 2 Assignment and Preparation | :busts_in_silhouette: <br/> :date: |  |
+| 11/14 | Working Across Governments | :white_check_mark: <br/> :busts_in_silhouette: | :page_facing_up: Krane, Ebdon & Bartle <br/> :page_facing_up: Wise <br/> :page_facing_up: Weissert, Pollack, & Nathan |
+| 11/21 | Thanksgiving Break |  |  |
+| 11/28 | Final Review & Essay 2 Meetings with Groups |  |  |
+| 12/11 | Essay 2 Turn In | :date: |  |
+
+
+## Class Policies
+* Public policy is a professional field; therefore, I emphasize professional skills in the classroom and assignments. Professional skills are punctuality, adhering to deadlines, and preparedness.
+* After the first week, readings for each week should be completed by the Tuesday of that week (that is, BEFORE CLASS!). While much of the class reading comes from the text, I will cover other material in my lectures. **You will be responsible for knowing this material too!**
+* A large body of well-designed research has demonstrated the detrimental effects of laptops on learning in a lecture/discussion based environment. Please be courteous and do not use your computers for anything other than class related work (taking notes and so on). Cellular phones are not to be used during class time!
+* Letters of recommendation. If you are a hard working student and serious about a career in public service, I will be a dedicated advocate for you on the job market and will happily write letters of recommendation on your behalf. There is, however, one condition and one recommendation. The condition: I will not write a letter of recommendation for your while you are in my class. This is because to write a good faith, sincere, and thoughtful recommendation, I will need to be able to consider your work as a whole, and while the class is on-going, my assessment of you will be incomplete. After the semester is over, I am happy to help in any way I can, including writing letters. The recommendation: Make an appointment to visit my office hours at least once over the course of the semester to talk informally about your goals, career interests, and other professional ambitions so I can get a better sense of who you are as individuals. The better I know you, the more effective I can be at writing letters on your behalf and thinking of you when opportunities arise.
+* Attend class! Again, class participation is 10% of your grade, and you can’t participate if you’re not in class. If you DO need to miss class (emergencies, sickness, etc.), please contact me as soon as possible and let me know. It will be your responsibility to notify me and to get any notes/materials from other students.
+* Cell phones: we all have them, and they can be quite distracting. I ask that you please be courteous and silence your cell phone and leave it out of sight (in a pocket/purse/bag) during class.
+* Feel free to eat and drink in class. I only ask that you do so quietly and in a manner that does not disrupt class.
+* All assignments and non-textbook readings will be posted to the class Zotero Library. I will email any announcements or updates to the class and also post them in the Blackboard. Report any trouble accessing anything on the Blackboard as soon as you encounter the problem.
+* I have a strict open door policy. If there is anything about the course, the assignments, the grading, the material, class, or anything related to public administration/policy or statistics broadly that you would like to discuss, do not hesitate to visit me during office hours or email me. I can respond via email, schedule a phone call, or schedule a separate meeting. I am here to help, so please do not hesitate to reach out to me. (But please be respectful of my time!)
+* **HAVE FUN!** Public administration/policy is a broad topic that explores big, important questions that affect everyone. Discussing these topics should be as fun and interesting as it is challenging.
+* The table below lays out the grading scale that will be used in assigning final course grades.
+* Students with special physical and/or learning needs will be accommodated. Please notify the Disabilities Office and me as soon as possible so that reasonable accommodations can be made.
+
+**NOTE:** Throughout the semester, I may add or substract readings as needed to adjust the course according to your progress, engagement, and interests.
+{: .notice--danger}
+
+Table. Grade Scale Used for Calculating Class Grades
+
+| Percent | Grade | Points|
+| :----: | :----: | :----: |
+| 93-100 | A | 4.0 |
+| 90-92 | A- | 3.7 |
+| 87-89 | B+ | 3.3 |
+| 83-86 | B | 3.0 |
+| 80-82 | B- | 2.7 |
+| 77-79 | C+ | 2.3 |
+| 73-76 | C | 2.0 |
+| 70-72 | C- | 1.7 |
+| 67-69 | D+ | 1.3 |
+| 63-66 | D | 1.0 |
+| 60-62 | D- | 0.7 |
+| < 60 | F | 0.0 |
+
+**Note:** the percent refers to the percent of available weighted points earned. Each assignment is weighted by the proportion of the final grade made up by the assignment itself, as described above.
+{: .notice--info}
+
+### Academic integrity
+Academic honesty is something your professor takes very seriously.  Cheating in any form will not be tolerated.  Students are required to be familiar with the university’s academic honesty policies; ignorance is not an excuse for dishonest behavior.  In all cases of cheating, a Violation of Academic Integrity Report will be submitted to the Dean of Graduate Studies to be placed in your university file, with copies provided to you, the department head, and the Dean of Rockefeller College.  Additional penalties may include some combination of the following: revision and re-submission of the assignment, reduction of the grade or failure of the assignment, reduction of the course grade or failure of the course, filing of a case with the Office of Conflict Resolution and Civic Responsibility, suspension, or expulsion. For a more detailed description of the university's academic honesty policies, visit the [site](http://www.albany.edu/graduatebulletin/requirements_degree.htm#standards_integrity).
+
+### Students with Disabilities
+We are committed to providing an accessible learning environment for all students. This includes students with physical, sensory, medical, cognitive, learning, mental health, and other disabilities. If you have, or think you may have a disability, please contact Disability Access and Inclusion Student Services (DAISS) by emailing daiss@albany.edu or calling 518 -442-5501. DAISS staff will explain the documentation and registration process, and set you up with an appointment. Once you have completed registration, you will be provided with a letter to inform your instructors that you are a student with a disability registered with DAISS, and which lists the recommended reasonable accommodations for your courses.
+
+### Counseling Center
+The Counseling Center (518-442-5800; 400 Patroon Creek Blvd, Suite 104) offers counseling and consultations regarding personal concerns, self-help information, and connections to off-campus resources. More information can be found at their [site](http://www.albany.edu/counseling_center/index.shtml).
+
+### Library Assistance
+SUNY-Albany offers a great collection available in several different media. Access to research help and library tutorials can be found online at the [library's site](http://library.albany.edu/).
+
+For information about SUNY-Albany’s Dewey Graduate Library, which is located on the Downtown Campus, visit their [site](http://library.albany.edu/dewey?source=drop).
+
+### Writing Center
+The university offers a number of services for students who need assistance with writing and research projects. Support is available in the Writing Center (518-442-4061; 140 HU) and at the University Library. Information about the Writing Center can be found at their [site](http://www.albany.edu/writing/index.html).
+
+### Title IX and Sexual Violence Prevention
+Title IX of the Education Amendments of 1972 is a federal civil rights law that prohibits discrimination on the basis of sex in federally funded education programs and activities. The SUNY-wide Sexual Violence Prevention and Response Policies prohibit offenses defined as sexual harassment, sexual assault, intimate partner violence (dating or domestic violence), sexual exploitation, and stalking. The  SUNY-wide Sexual Violence Prevention and Response Policies apply to the entire University at Albany community, including students, faculty, and staff of all gender identities.  The University at Albany provides a variety of resources for support and advocacy to assist individuals who have experienced sexual offenses.
+
+Confidential support and guidance can be found through the Counseling Center (518-442-5800, [or online](https://www.albany.edu/counseling_center/)), the University Health Center (518-442-5454, [or online](https://www.albany.edu/health_center/)), and the Interfaith Center (518-489-8573, [or online](https://www.albany.edu/spirituality/onCampus.shtml)). Individuals at these locations will not report crimes to law enforcement or university officials without permission, except for in extreme circumstances, such as a health and/or safety emergency. Additionally, the Advocates at the University at Albany’s Advocacy Center for Sexual Violence are available to assist students without sharing information that could identify them (518-442-CARE, [or online](https://www.albany.edu/advocacycenter/)).
+
+Sexual offenses can be reported non-confidentially to the Title IX Coordinator within The Office for Equity and Compliance (518-442-3800, [or online](https://www.albany.edu/equity-compliance/), Building 25, Room 117) and/or the University Police Department (518-442-3131, [or online](http://police.albany.edu/)).
+
+**PLEASE NOTE:** Faculty members are considered “responsible employees” at the University at Albany, meaning that they are required to report all known relevant details about a complaint of sexual violence to the University’s Title IX Coordinator, including names of anyone involved or present, date, time, and location.
+{: .notice--danger}
+
+In case of an emergency, please call 911.
+
+### Incomplete Grade Policy
+A tentative grade given only when the student has nearly completed the course but due to circumstances beyond the student's control the work is not completed on schedule. The date for the completion of the work is specified by the instructor. The date stipulated will not be later than one month before the end of the session following that in which the Incomplete is received. The grade I is automatically changed to E or U unless work is completed as agreed between the student and the instructor.
+
+### Absence due to religious observance
+Students are excused, without penalty, to be absent because of religious beliefs, and will be provided equivalent opportunities for make-up examinations, study, or work requirements missed because of such absences. Students should notify the instructor of record in a timely manner, and the instructor will work directly with students to accommodate religious observances. Online courses will not schedule any assignment deadlines on religious holidays.
+
+[^bignote1]: This course is aligned with the five core competencies identified by the National Association of Schools of Public Affairs and Administration (NASPAA) as critical for success in public service careers. Competencies are integrative.  Competencies are a bundle of knowledge, skills, abilities, and behaviors that, when fully integrated, define successful performance.  Competencies are broader than knowing how to use Excel or being able to define what marginal cost means. Competencies describe the characteristics of the person who does the job best.  In this way, competencies describe the whole person and their total performance.  Competencies are broader than job tasks. The NASPAA identified competencies are 1) The ability to lead and manage in public governance; 2) To participate in and contribute to the policy process; 3) To analyze, synthesize, think critically, solve problems and make decisions; 4) To articulate and apply a public service perspective; 5) To communicate and interact productively with a diverse and changing workforce and citizenry.
+
