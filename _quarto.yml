@@ -15,9 +15,13 @@ website:
         file: assignments.qmd
         
   sidebar: 
-    - title: "Assignments"
+    - title: "Syllabus"
       style: docked
       search: true
+      contents: 
+        - syllabus.qmd
+        
+    - title: "Assignments"
       contents: 
         - assignments.qmd
         - groupassignment1.qmd
