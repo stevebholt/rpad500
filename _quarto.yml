@@ -11,6 +11,16 @@ website:
         file: index.qmd
       - text: "Syllabus"
         file: syllabus500.qmd
+      - text: "Assignments"
+        file: assignments.qmd
+        
+  sidebar: 
+    - title: "Assignments"
+      style: docked
+      search: true
+      contents: 
+        - assignments.qmd
+        - groupassignment1.qmd
 
 format:
   html:

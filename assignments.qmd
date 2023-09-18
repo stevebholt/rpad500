@@ -1,0 +1,10 @@
+---
+title: "Assignments"
+---
+
+All group assignments and the two essay assignments will be posted here. Group assignment 1 is now active. The group assignments in this class serve two important functions. First, they will provide groups with a role in a scenario that facilitates the application of concepts from the modules to a more concrete example. The assignments will generally take place in a fictional city, [Hopetopia](https://stevebholt.github.io/hopetopia/), which is loosely based on real cities and the parameters and characteristics of which will be provided as relevant to each activity. Second, many of the skills targeted by the assignments are trial runs for working with concepts that will be explored in more depth in essays 1 and 2 later in the course. Generally, applications grounded in a hypothetical situation similar to real-world events provides opportunities for more enjoyable and interesting discussion. It also provides an early, low-stakes context to get to know your group mates and their work styles. All group assignments should be grounded in the city of Hopetopia using the information on its website (linked above) as well as research on any proposed programs/policies.
+
+::: callout-tip
+## Tip on Groups
+In many group assignments, you will be asked to write a 1- or 2-page memo to respond to the prompt. Building a good memo packs a lot of information succinctly into a short document. Use the data and information about Hopetopia to creatively build your case in the memo alongside in-depth research about related problems and evidence for the solution you are proposing (see the acceptable sources section [on the syllabus](https://stevebholt.github.io/rpad500/syllabus500.html#two-essays) for some source ideas.
+:::
