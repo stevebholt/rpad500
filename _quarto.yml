@@ -25,6 +25,7 @@ website:
       contents: 
         - assignments.qmd
         - groupassignment1.qmd
+        - groupassignment2.qmd
 
 format:
   html:
