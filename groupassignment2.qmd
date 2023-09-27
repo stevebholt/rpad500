@@ -11,12 +11,12 @@ The Mayor's priorities (from assignment 1) has been added to this assignment and
 | Group   | Role                        |
 |---------|-----------------------------|
 | Group 4 | Police Department           |
-| Group 3 | Fire Department             |
+| Group 6 | Fire Department             |
 | Group 5 | Housing and Planning Agency |
 | Group 1 | Buildings and Regulations   |
 | Group 7 | Adult Human Services        |
 | Group 2 | Youth Social Services       |
-| Group 6 | Transportation Department   |
+| Group 3 | Transportation Department   |
 | Group 8 | General Services Department |
 
 ### Mayor's Budget Memo
