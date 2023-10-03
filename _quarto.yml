@@ -26,6 +26,7 @@ website:
         - assignments.qmd
         - groupassignment1.qmd
         - groupassignment2.qmd
+        - groupassignment3.qmd
 
 format:
   html:

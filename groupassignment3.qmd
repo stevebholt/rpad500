@@ -1,0 +1,46 @@
+---
+title: "Group Assignment 3"
+---
+
+For assignment 3, we return to Hopetopia with new information about what each agency is prioritizing, how they are measuring performance, and what their workforces currently look like. All 10 groups will be representing different Hopetopia city government agencies. In order to tackle diversity and equity issues in the city, each agency will receive 1,500,000 additional dollars from the mayor’s office. The agency can use the money to target either workforce diversity issues OR issues regarding equity in services. By **midnight on Sunday, October 8th**, each group will prepare a one page memo that outlines: 1) whether they will focus on equity or diversity and why; 2) how they will use the money to tackle the issue they chose; and 3) any limitations in the performance indicators they have available for deciding on 1 and 2 and what additional performance indicators would have made the decision easier. As with previous assignments, you will be writing a 1-2 page memo as a group and posting it in the Hopetopia Forum as a reply to the “Assignment 3 Thread” I have created. Be sure your post includes the names of all group members.
+
+The Mayor’s priorities (from assignment 1) has been added to this assignment and the budget for each agency has been updated to reflect the mayor’s budget guidance.
+
+::: callout-tip
+## Tip on Creative Use of Information
+You can use percentages of different groups in the city to get a sense of the total population a program intends to serve and the percentage of cases in a performance indicator to get a sense for how many cases are failing or succeeding in a certain ward. For instance, [table 1](https://stevebholt.github.io/hopetopia/econ.html#tbl-income) in the economic statistics on Hopetopia shows that 18 percent of Northwest Hopetopia lives under the poverty line. 0.18 x 179,271 equals about 32,268 people living in poverty in Northwest. If a program aiming to help low-income Hopetopians only is only enrolling 45% of eligible Hopetopians, 0.45 x 32,268 tells us that the program is reaching 14,520 people. You can use these sorts of simple calculations to get a sense for staffing needs, scale of performance wins and areas for improvement, and a variety of other creative ways to assess and tackle problems in Hopetopia.
+:::
+
+### Mayor's Budget Memo
+
+Current Budget: \$5,031,509,700.00
+
+Department of Emergency Services
+
+-   Allocation: \$1,229,355,000
+
+-   Rationale: Emergency Services has adequately served all four wards in Hopetopia and received 26% of the 2032 FY budget. The Mayor's Office will reassess funding increases for FY 2024.
+
+Department of Community Development
+
+-   Allocation: \$241,181,280
+
+-   Rationale: Due to a lack of business development, inequitable food access, and a growing amount of inadequate housing infrastructure in the Southwest Ward, the Mayor's Office has chosen to allocate a 3% increase in the FY23 budget to the Department of Community Development. By prioritizing community development, it is our goal to create more structure and unity for everyone.
+
+Department of Social Services
+
+-   Allocation: \$608,625,140
+
+-   Rationale: The betterment of a community will never be achieved without help. Due to the local supermarket closing and businesses shutting down, an increase in funding will allow the provision of expanded services. Social services can support the community with food insecurity through issuing EBT/ SNAP benefits, which will help alleviate some of the financial burden with groceries. The Mayor's Office has decided to give Social Service a 1% increase because they will help the betterment of the community, in terms of short-term goals.
+
+Department of General Services
+
+-   Allocation: \$974,510,280
+
+-   Rationale: Community development is impossible without adequate transportation for all citizens in all wards of Hopetopia on safely maintained roads, bridges, and sidewalks. We have chosen to allocate a 2% increase to General Services to ensure transportation to grocery stores, social services offices, and for the maintenance of all roads in Hopetopia.
+
+Department of Education
+
+-   Allocation: \$1,977,838,000
+
+-   Rationale: The Department of Education was allocated over 40% of the FY22 budget. This will be maintained for FY 23 as we want to use the surplus to address more dire needs such as food, housing, and vocational insecurities. We hope to increase economic equity throughout the wards through helping to meet more immediate needs of its citizens.
