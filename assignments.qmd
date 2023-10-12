@@ -6,5 +6,6 @@ All group assignments and the two essay assignments will be posted here. Group a
 
 ::: callout-tip
 ## Tip on Groups
+
 In many group assignments, you will be asked to write a 1- or 2-page memo to respond to the prompt. Building a good memo packs a lot of information succinctly into a short document. Use the data and information about Hopetopia to creatively build your case in the memo alongside in-depth research about related problems and evidence for the solution you are proposing (see the acceptable sources section [on the syllabus](https://stevebholt.github.io/rpad500/syllabus500.html#two-essays) for some source ideas.
 :::
