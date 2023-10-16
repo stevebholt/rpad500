@@ -1,0 +1,57 @@
+---
+title: "Group Assignment 4"
+---
+
+---
+title: "Group Assignment 4"
+---
+
+For assignment 4, we continue our management of Hopetopia. All 8 groups will be representing different Hopetopia city government agencies. The city received a grant to offset some operating funds and has a little budgetary room now. The mayor’s office has decided to give each agency a lump sum of money to develop new programming to support their missions. Each agency will receive $750,000 additional dollars from the mayor’s office. Each group will prepare a 1-2 page memo that outlines: 1) what their new program will do and why it’s important (it can be modeled after a real existing program you find compelling in another city – just be sure to note the city and explain the program well); 2) the new positions that will be created to support the program (with salaries); 3) the roles and responsibilities for each position; 4) what skills and qualifications each position will need and why; and 5) the length of time to fill the position and process for filling it (what will the agency do to attract applications, how many candidates will be interviewed, what will be the steps taken to review qualifications and decide). As with previous assignments, you will be writing a 1-2 page memo as a group and posting it in the Hopetopia Forum as a reply to the “Assignment 4 Thread” I have created. Be sure your post includes the names of all group members.
+
+### Group Assignments
+
+| Group  | Role |
+| ------ | -------|
+| Group 4 | Police Department |
+| Group 7 | Fire Department |
+| Group 6 | Housing and Planning Agency |
+| Group 3 | Buildings and Regulations |
+| Group 1 | Adult Human Services |
+| Group 5 | Youth Social Services |
+| Group 8 | Transportation Department |
+| Group 2 | General Services Department |
+
+### Mayor's Budget Memo
+
+Current Budget: \$5,031,509,700.00
+
+Department of Emergency Services
+
+-   Allocation: \$1,229,355,000
+
+-   Rationale: Emergency Services has adequately served all four wards in Hopetopia and received 26% of the 2032 FY budget. The Mayor's Office will reassess funding increases for FY 2024.
+
+Department of Community Development
+
+-   Allocation: \$241,181,280
+
+-   Rationale: Due to a lack of business development, inequitable food access, and a growing amount of inadequate housing infrastructure in the Southwest Ward, the Mayor's Office has chosen to allocate a 3% increase in the FY23 budget to the Department of Community Development. By prioritizing community development, it is our goal to create more structure and unity for everyone.
+
+Department of Social Services
+
+-   Allocation: \$608,625,140
+
+-   Rationale: The betterment of a community will never be achieved without help. Due to the local supermarket closing and businesses shutting down, an increase in funding will allow the provision of expanded services. Social services can support the community with food insecurity through issuing EBT/ SNAP benefits, which will help alleviate some of the financial burden with groceries. The Mayor's Office has decided to give Social Service a 1% increase because they will help the betterment of the community, in terms of short-term goals.
+
+Department of General Services
+
+-   Allocation: \$974,510,280
+
+-   Rationale: Community development is impossible without adequate transportation for all citizens in all wards of Hopetopia on safely maintained roads, bridges, and sidewalks. We have chosen to allocate a 2% increase to General Services to ensure transportation to grocery stores, social services offices, and for the maintenance of all roads in Hopetopia.
+
+Department of Education
+
+-   Allocation: \$1,977,838,000
+
+-   Rationale: The Department of Education was allocated over 40% of the FY22 budget. This will be maintained for FY 23 as we want to use the surplus to address more dire needs such as food, housing, and vocational insecurities. We hope to increase economic equity throughout the wards through helping to meet more immediate needs of its citizens.
+
