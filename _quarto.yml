@@ -28,6 +28,7 @@ website:
         - groupassignment2.qmd
         - groupassignment3.qmd
         - essay1.qmd
+        - groupassignment4.qmd
 
 format:
   html:
