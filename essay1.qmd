@@ -7,9 +7,9 @@ This is a group project. Your team will submit one joint essay.
 :::
 
 :::{.callout-note}
-**_One page summary_** due by midnight on Sunday, October 22nd via Brightspace.\\
-**_Final paper_** due by midnight on Monday, November 6th via Brightspace.\\
-**_Group evauation_** due by midnight on Sunday, November 12th via Brightspace.\\
+**_One page summary_** due by midnight on Sunday, October 22nd via Brightspace.
+**_Final paper_** due by midnight on Monday, November 6th via Brightspace.
+**_Group evauation_** due by midnight on Sunday, November 12th via Brightspace.
 :::
 
 ## Instructions
