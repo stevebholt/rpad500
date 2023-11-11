@@ -2,10 +2,11 @@
 title: "Essay 1"
 ---
 
-:::{.callout-important}
-This is a group project.  Your team will submit one joint essay.
+::: callout-important
+This is a group project. Your team will submit one joint essay.
 :::
 
+<<<<<<< HEAD
 :::{.callout-note}
 <<<<<<< HEAD
 **_One page summary_** due by midnight on Sunday, October 22nd via Brightspace.\\
@@ -16,13 +17,19 @@ This is a group project.  Your team will submit one joint essay.
 **_Final paper_** due by midnight on Monday, November 6th via Brightspace.
 **_Group evauation_** due by midnight on Sunday, November 12th via Brightspace.
 >>>>>>> 52820cd7cee2168af8875c4f8fee805c772ce570
+=======
+::: callout-note
+***One page summary*** due by midnight on Sunday, October 22nd via Brightspace. ***Final paper*** due by midnight on Monday, November 6th via Brightspace. ***Group evauation*** due by midnight on Sunday, November 12th via Brightspace.
+>>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
 :::
 
 ## Instructions
-Your group is playing the role of the administrator or manager leading a regulatory change or project implementation (depending on your scenario selection from the three scenarios listed below). In that role, you will 1) establish your department’s priorities for the change based on evidence available and research you have conducted and 2) develop a detailed plan for public engagement. Your public engagement plan should conduct a stakeholder analysis that identifies the stakeholders and their interest and power to impact your priorities. You should then provide a detailed plan for facilitating public input with careful attention to how your engagement plan will impact the quality of input you receive and engender support for your plans. 
+
+Your group is playing the role of the administrator or manager leading a regulatory change or project implementation (depending on your scenario selection from the three scenarios listed below). In that role, you will 1) establish your department's priorities for the change based on evidence available and research you have conducted and 2) develop a detailed plan for public engagement. Your public engagement plan should conduct a stakeholder analysis that identifies the stakeholders and their interest and power to impact your priorities. You should then provide a detailed plan for facilitating public input with careful attention to how your engagement plan will impact the quality of input you receive and engender support for your plans.
 
 Specifically, you are to write a report to the leader of the agency in your prompt that includes the following components:
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 1. Background information on the project in the scenario you have chosen.  (1 page max)
 
@@ -37,51 +44,66 @@ Specifically, you are to write a report to the leader of the agency in your prom
 6.	Since agency leaders are busy executives, they might not have time to read your entire report in detail.  To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
 =======
   1. Background information on the project in the scenario you have chosen.  (1 page max)
+=======
+1.  Background information on the project in the scenario you have chosen. (1 page max)
+>>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
 
-  2.	Stakeholder Analysis: Use the Eden and Ackermann (2011) framework for stakeholder analysis to identify the range of stakeholders involved in the issue, and use your analysis to determine which individuals or groups should be included in the collaborative process. Include a figure with the list of all the stakeholders you identified (using the Eden and Ackerman 2 x 2 figure), and provide a detailed analysis of the four most important stakeholders that you think should be included in the mini public and why. Note: your agency should not be analyzed as a stakeholder since you are conducting the analysis.  Be sure to discuss each stakeholder’s power and interest and connect this to your rationale for including them or not in the process. Also, be sure to keep your own strategic objectives in mind. In other words, who do you most need to engage to address the issues and settle public conflict? (The figure does not count toward page length and should be included at the end of the essay on a separate page.) (6 pages max)
+2.  Stakeholder Analysis: Use the Eden and Ackermann (2011) framework for stakeholder analysis to identify the range of stakeholders involved in the issue, and use your analysis to determine which individuals or groups should be included in the collaborative process. Include a figure with the list of all the stakeholders you identified (using the Eden and Ackerman 2 x 2 figure), and provide a detailed analysis of the four most important stakeholders that you think should be included in the mini public and why. Note: your agency should not be analyzed as a stakeholder since you are conducting the analysis. Be sure to discuss each stakeholder's power and interest and connect this to your rationale for including them or not in the process. Also, be sure to keep your own strategic objectives in mind. In other words, who do you most need to engage to address the issues and settle public conflict? (The figure does not count toward page length and should be included at the end of the essay on a separate page.) (6 pages max)
 
-  3.	Use the Fung (2006) framework to design a “mini public” to bring stakeholders together to 1) educate stakeholders on the project or intent of the policy and 2) facilitate a collaborative decision-making process which can be executed by the department.  Your proposal should consider how the agency might improve upon recent public meetings.  Be sure to address each aspect of design in Fung’s framework. Be thoughtful and specific about your choices, and how they relate to each other in an overall design. (Hint: you do not necessarily need to discuss each design feature separately, but write up your plan in a way that you would want the agency head, your boss in this scenario, to see it.) Be sure to explain how your overall design will achieve your goals. The plan should be consistent with the conclusions of the stakeholder analysis. (6 pages max)
+3.  Use the Fung (2006) framework to design a "mini public" to bring stakeholders together to 1) educate stakeholders on the project or intent of the policy and 2) facilitate a collaborative decision-making process which can be executed by the department. Your proposal should consider how the agency might improve upon recent public meetings. Be sure to address each aspect of design in Fung's framework. Be thoughtful and specific about your choices, and how they relate to each other in an overall design. (Hint: you do not necessarily need to discuss each design feature separately, but write up your plan in a way that you would want the agency head, your boss in this scenario, to see it.) Be sure to explain how your overall design will achieve your goals. The plan should be consistent with the conclusions of the stakeholder analysis. (6 pages max)
 
-  4.	Conclusion outlining the expected outcomes of the process (half page max)
+4.  Conclusion outlining the expected outcomes of the process (half page max)
 
-  5.	Bibliography in APA style (not included in the page limit)
+5.  Bibliography in APA style (not included in the page limit)
 
+<<<<<<< HEAD
   6.	Since agency leaders are busy executives, they might not have time to read your entire report in detail.  To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
 >>>>>>> 52820cd7cee2168af8875c4f8fee805c772ce570
+=======
+6.  Since agency leaders are busy executives, they might not have time to read your entire report in detail. To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
+>>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
 
 ## Formatting
-In addition to the formatting guidelines in the syllabus, the essay should be double-spaced and no longer than 16 pages of text (excluding the figure and the bibliography).  Format your citations using APA.  Be sure to include the names of all group members on your essay.
+
+In addition to the formatting guidelines in the syllabus, the essay should be double-spaced and no longer than 16 pages of text (excluding the figure and the bibliography). Format your citations using APA. Be sure to include the names of all group members on your essay.
 
 ## Scenario Options and Starting Information
-The following reports are to help you begin your research.  You are expected to conduct research beyond these sources.
+
+The following reports are to help you begin your research. You are expected to conduct research beyond these sources.
 
 ### Scenario 1
-In recent years, policy-makers, labor advocates, and researchers have recognized the potential problems created by unpredictable scheduling for some workers. A variety of industries rely heavily on “on-call” work, week-to-week changes in scheduling, and undesired hours restrictions that make workers’ schedules less predictable, making childcare provision and coping with illness or other emergencies difficult. The NYS Department of Labor has been empowered by the legislature to develop and implement regulations to tackle this issue and create more stable work schedules for employees. Some localities have such regulations. For example, New York City has recent protections regarding regular schedules, progressive discipline, hours reductions, and layoffs for fast food workers that took effect on July 4, 2021. Your office in the NYS Department of Labor has been tasked with developing regulations that will balance the needs of employers with the rights and needs of workers across the State. 
 
-- EPI provides a [helpful summary](https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/) outlining the issues in employer scheduling and some policies tried elsewhere.
-- New York City has [detailed information](https://www1.nyc.gov/site/dca/workers/workersrights/fastfood-retail-workers.page) about their local law governing worker schedules.
+In recent years, policy-makers, labor advocates, and researchers have recognized the potential problems created by unpredictable scheduling for some workers. A variety of industries rely heavily on "on-call" work, week-to-week changes in scheduling, and undesired hours restrictions that make workers' schedules less predictable, making childcare provision and coping with illness or other emergencies difficult. The NYS Department of Labor has been empowered by the legislature to develop and implement regulations to tackle this issue and create more stable work schedules for employees. Some localities have such regulations. For example, New York City has recent protections regarding regular schedules, progressive discipline, hours reductions, and layoffs for fast food workers that took effect on July 4, 2021. Your office in the NYS Department of Labor has been tasked with developing regulations that will balance the needs of employers with the rights and needs of workers across the State.
+
+-   EPI provides a [helpful summary](https://www.epi.org/publication/fair-workweek-laws-help-more-than-1-8-million-workers/) outlining the issues in employer scheduling and some policies tried elsewhere.
+-   New York City has [detailed information](https://www1.nyc.gov/site/dca/workers/workersrights/fastfood-retail-workers.page) about their local law governing worker schedules.
 
 ### Scenario 2
-Former Governor Andrew Cuomo signed into effect The Marijuana Regulation and Taxation Act on March 31, 2021. The legislation creates the nation’s first comprehensive regulatory structure to oversee the legalizing of adult-use cannabis (e.g., the licensure, cultivation, production, distribution, sale and taxation). In particular, the Cannabis Control Board and Office of Cannabis Management will create and implement a comprehensive regulatory framework for New York's cannabis industry. Christopher Alexander, the first Executive Director of Office of Cannabis Management, has charged your office in the new agency with some of the first steps to the legislation’s implementation. You have been tasked with leading the project that will create rules to more strictly regulate smoking cannabis in public and for ensuring this part of the implementation plan has support from the community.
 
-- Background information for this scenario is posted in Blackboard.
+Former Governor Andrew Cuomo signed into effect The Marijuana Regulation and Taxation Act on March 31, 2021. The legislation creates the nation's first comprehensive regulatory structure to oversee the legalizing of adult-use cannabis (e.g., the licensure, cultivation, production, distribution, sale and taxation). In particular, the Cannabis Control Board and Office of Cannabis Management will create and implement a comprehensive regulatory framework for New York's cannabis industry. Christopher Alexander, the first Executive Director of Office of Cannabis Management, has charged your office in the new agency with some of the first steps to the legislation's implementation. You have been tasked with leading the project that will create rules to more strictly regulate smoking cannabis in public and for ensuring this part of the implementation plan has support from the community.
+
+-   Background information for this scenario is posted in Brightspace.
 
 ### Scenario 3
-The New York State Education Department (NYSED) has identified civics education as a new priority in the latest round of revisions of the state curricular standards. The curricular standards set by NYSED guide schools throughout the state in adopting assignments, developing tools for evaluating students’ progress, and adopting classroom materials and resources (e.g., texts, software, etc.). The new updates are intended to elicit both knowledge of civic processes and student engagement in civic life. Your office in NYSED has been tasked with overseeing the plan for implementing them, including considerations and progress with the 2021-2022 Seal of Civic Readiness Committee Pilot program. 
 
-- Information about the initiative can be found [here](http://www.nysed.gov/curriculum-instruction/civic-readiness-initiative).
-- New York’s recent revisions to the state standards for reading and math can be found [here](http://www.nysed.gov/next-generation-learning-standards).
-- Some background on the development of the new math and reading standards can be found [here](https://www.edweek.org/teaching-learning/new-york-has-rewritten-the-common-core-heres-what-you-need-to-know/2017/09).
+The New York State Education Department (NYSED) has identified civics education as a new priority in the latest round of revisions of the state curricular standards. The curricular standards set by NYSED guide schools throughout the state in adopting assignments, developing tools for evaluating students' progress, and adopting classroom materials and resources (e.g., texts, software, etc.). The new updates are intended to elicit both knowledge of civic processes and student engagement in civic life. Your office in NYSED has been tasked with overseeing the plan for implementing them, including considerations and progress with the 2021-2022 Seal of Civic Readiness Committee Pilot program.
+
+-   Information about the initiative can be found [here](http://www.nysed.gov/curriculum-instruction/civic-readiness-initiative).
+-   New York's recent revisions to the state standards for reading and math can be found [here](http://www.nysed.gov/next-generation-learning-standards).
+-   Some background on the development of the new math and reading standards can be found [here](https://www.edweek.org/teaching-learning/new-york-has-rewritten-the-common-core-heres-what-you-need-to-know/2017/09).
 
 ## Grading
-Since this is a group project, the grade will be divided into two parts: the essay grade and the group participation grade.  Students can earn a maximum of 100 points for the assignment overall so the grade will be comparable to the other essay grades.  Specifically, 80 points will be allocated to the essay and 20 points will result from the group work.  The final grade posted in Brightspace will be the combined grade (essay overall + the group evaluation). The grading rubric for the essay, and the group evaluation rubric are posted on Brightspace.
 
-:::{.callout-tip}
+Since this is a group project, the grade will be divided into two parts: the essay grade and the group participation grade. Students can earn a maximum of 100 points for the assignment overall so the grade will be comparable to the other essay grades. Specifically, 80 points will be allocated to the essay and 20 points will result from the group work. The final grade posted in Brightspace will be the combined grade (essay overall + the group evaluation). The grading rubric for the essay, and the group evaluation rubric are posted on Brightspace.
+
+::: callout-tip
 ## Peer Evaluations
+
 Be honest and fair in your peer evaluations. If someone does not do their fair share of the work or is not responsive to the group, their grade for the assignment should reflect that lack of contribution. If someone does their fair share, that should also be reflected in their assessment. You do not, under any circumstances, need to share individual grades with one another.
 :::
 
 ## Submission
-- One page summaries are not graded, but should be submitted through Brightspace using the "One Page Summary" link.
-- There will be a separate link for the final paper on Brightspace.
-- Finally, after the paper deadline, there will be a separate link for peer evaluations.
+
+-   One page summaries are not graded, but should be submitted through Brightspace using the "One Page Summary" link.
+-   There will be a separate link for the final paper on Brightspace.
+-   Finally, after the paper deadline, there will be a separate link for peer evaluations.
