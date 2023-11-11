@@ -6,21 +6,10 @@ title: "Essay 1"
 This is a group project. Your team will submit one joint essay.
 :::
 
-<<<<<<< HEAD
 :::{.callout-note}
-<<<<<<< HEAD
 **_One page summary_** due by midnight on Sunday, October 22nd via Brightspace.\\
 **_Final paper_** due by midnight on Monday, November 6th via Brightspace.\\
 **_Group evauation_** due by midnight on Sunday, November 12th via Brightspace.\\
-=======
-**_One page summary_** due by midnight on Sunday, October 22nd via Brightspace.
-**_Final paper_** due by midnight on Monday, November 6th via Brightspace.
-**_Group evauation_** due by midnight on Sunday, November 12th via Brightspace.
->>>>>>> 52820cd7cee2168af8875c4f8fee805c772ce570
-=======
-::: callout-note
-***One page summary*** due by midnight on Sunday, October 22nd via Brightspace. ***Final paper*** due by midnight on Monday, November 6th via Brightspace. ***Group evauation*** due by midnight on Sunday, November 12th via Brightspace.
->>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
 :::
 
 ## Instructions
@@ -29,8 +18,6 @@ Your group is playing the role of the administrator or manager leading a regulat
 
 Specifically, you are to write a report to the leader of the agency in your prompt that includes the following components:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 1. Background information on the project in the scenario you have chosen.  (1 page max)
 
 2.	Stakeholder Analysis: Use the Eden and Ackermann (2011) framework for stakeholder analysis to identify the range of stakeholders involved in the issue, and use your analysis to determine which individuals or groups should be included in the collaborative process. Include a figure with the list of all the stakeholders you identified (using the Eden and Ackerman 2 x 2 figure), and provide a detailed analysis of the four most important stakeholders that you think should be included in the mini public and why. Note: your agency should not be analyzed as a stakeholder since you are conducting the analysis.  Be sure to discuss each stakeholder’s power and interest and connect this to your rationale for including them or not in the process. Also, be sure to keep your own strategic objectives in mind. In other words, who do you most need to engage to address the issues and settle public conflict? (The figure does not count toward page length and should be included at the end of the essay on a separate page.) (6 pages max)
@@ -42,26 +29,6 @@ Specifically, you are to write a report to the leader of the agency in your prom
 5.	Bibliography in APA style (not included in the page limit)
 
 6.	Since agency leaders are busy executives, they might not have time to read your entire report in detail.  To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
-=======
-  1. Background information on the project in the scenario you have chosen.  (1 page max)
-=======
-1.  Background information on the project in the scenario you have chosen. (1 page max)
->>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
-
-2.  Stakeholder Analysis: Use the Eden and Ackermann (2011) framework for stakeholder analysis to identify the range of stakeholders involved in the issue, and use your analysis to determine which individuals or groups should be included in the collaborative process. Include a figure with the list of all the stakeholders you identified (using the Eden and Ackerman 2 x 2 figure), and provide a detailed analysis of the four most important stakeholders that you think should be included in the mini public and why. Note: your agency should not be analyzed as a stakeholder since you are conducting the analysis. Be sure to discuss each stakeholder's power and interest and connect this to your rationale for including them or not in the process. Also, be sure to keep your own strategic objectives in mind. In other words, who do you most need to engage to address the issues and settle public conflict? (The figure does not count toward page length and should be included at the end of the essay on a separate page.) (6 pages max)
-
-3.  Use the Fung (2006) framework to design a "mini public" to bring stakeholders together to 1) educate stakeholders on the project or intent of the policy and 2) facilitate a collaborative decision-making process which can be executed by the department. Your proposal should consider how the agency might improve upon recent public meetings. Be sure to address each aspect of design in Fung's framework. Be thoughtful and specific about your choices, and how they relate to each other in an overall design. (Hint: you do not necessarily need to discuss each design feature separately, but write up your plan in a way that you would want the agency head, your boss in this scenario, to see it.) Be sure to explain how your overall design will achieve your goals. The plan should be consistent with the conclusions of the stakeholder analysis. (6 pages max)
-
-4.  Conclusion outlining the expected outcomes of the process (half page max)
-
-5.  Bibliography in APA style (not included in the page limit)
-
-<<<<<<< HEAD
-  6.	Since agency leaders are busy executives, they might not have time to read your entire report in detail.  To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
->>>>>>> 52820cd7cee2168af8875c4f8fee805c772ce570
-=======
-6.  Since agency leaders are busy executives, they might not have time to read your entire report in detail. To help them review your material quickly, begin your essay with a brief summary of your key messages (1 page max) and include section headings throughout the essay.
->>>>>>> a828e40ea8636f45acf2490379b91b6b60d2d96d
 
 ## Formatting
 
